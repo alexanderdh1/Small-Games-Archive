@@ -1,2 +1,2 @@
 # Small-Games-Archive
-Collection of old games from 2020-2024
+Collection of smaller game projects from 2021-2024
