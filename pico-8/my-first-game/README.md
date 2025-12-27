@@ -3,7 +3,7 @@ A small game created in 2021 using the PICO-8 fantasy console.
 
 ## File format
 The game is stored as a `.p8.png` cartridge file.  
-Although it appears to be an image, the PNG contains the full game:
+The PNG contains the full game code and visuals:
 - Lua source code
 - Sprites and map data
 - Sound and music
