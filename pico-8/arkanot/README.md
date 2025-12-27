@@ -1,5 +1,5 @@
 # Arkanot (PICO-8)
-A small arcade-style game created in 2022 using the PICO-8 fantasy console.
+A small arcade-style game created in 2021 using the PICO-8 fantasy console.
 
 ## File format
 The game is stored as a `.p8.png` cartridge file.  
